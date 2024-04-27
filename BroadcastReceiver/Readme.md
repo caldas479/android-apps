@@ -1,1 +1,5 @@
-broadcast receiver that listens to telephone state changes. If the device receives an incoming phone call, then your receiver will be notified and message logged. Whenever you need, look up for help in the Android developers website.
+# Broadcast receiver
+
+Broadcast receiver that listens to telephone state changes. 
+If the device receives an incoming phone call, then your receiver will be notified and message logged. 
+
