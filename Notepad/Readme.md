@@ -2,7 +2,7 @@
 
 The activity wireframe intended for this application is represented below.
 
-![wireframe](images/notepad_wirefram.png)
+![wireframe](images/notepad_wireframe.png)
 
 The app consists of three activities:
 - The main activity (ListNotesActivity) displays the titles of existing notes and a button for creating a new note. When the user presses that button (New Note), a new activity is created, named CreateNoteActivity. When it presses a note title from the list results, a new activity is created, named ReadNoteActivity.
