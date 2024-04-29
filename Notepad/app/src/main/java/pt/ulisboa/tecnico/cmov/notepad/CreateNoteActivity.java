@@ -16,7 +16,7 @@ public class CreateNoteActivity extends ComponentActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_create_node);
+        setContentView(R.layout.activity_create_note);
 
         titleEditText = findViewById(R.id.titleEditText);
         textEditText = findViewById(R.id.textEditText);
